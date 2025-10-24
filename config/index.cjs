@@ -33,10 +33,10 @@ const USER_CONFIG = {
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '生日', name: '李四', year: '1996', date: '09-31',
+          type: '生日', name: '宝宝', year: '2002', date: '10-14',
         },
         {
-          type: '节日', name: '相识纪念日', year: '2020', date: '09-03',
+          type: '节日', name: '恋爱纪念日', year: '2025', date: '02-18',
         },
       ],
       // 我们在一起已经有xxxx天了的配置
@@ -51,7 +51,7 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '',
+  CALLBACK_TEMPLATE_ID: 'S9PG-UkHqDtvY2Jrs2ISW61AX-XkHl1eb0HhSZl38lo',
 
   CALLBACK_USERS: [
     {
